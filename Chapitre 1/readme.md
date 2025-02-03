@@ -28,6 +28,17 @@ Réaliser un site vitrine permettant aux entreprises de se faire connaître et d
 
 ### Exigences Fonctionnelles
 
+#### User Stories et Cas d'Utilisation
+
+1. **En tant qu'utilisateur**
+   - Je veux voir une présentation claire de l'entreprise sur la page d'accueil.
+   - Je veux parcourir les réalisations de l'entreprise dans le portfolio.
+   - Je veux pouvoir contacter l'entreprise via un formulaire de contact.
+
+2. **En tant qu'administrateur**
+   - Je veux pouvoir ajouter et modifier des projets dans le portfolio.
+   - Je veux pouvoir modifier le texte des pages facilement.
+
 1. **Page d'accueil**
    - Une présentation claire et concise de l'entreprise.
    - Une biographie de l'entreprise et de son fondateur.
@@ -43,47 +54,23 @@ Réaliser un site vitrine permettant aux entreprises de se faire connaître et d
 5. **Conformité RGPD**
    - Politique de confidentialité.
    - Gestion des cookies et consentement utilisateur.
-6. **Responsive Design**
-   - Adaptabilité aux différents écrans (ordinateurs, tablettes, mobiles).
-   - Navigation fluide et ergonomique quel que soit le support utilisé.
-   
-## 4. Usages Techniques
 
-### Cas d'Utilisation (User Stories)
+## 4. Exigences Techniques
 
-1. **En tant qu'utilisateur**
-
-   - Je veux voir une présentation claire de l'entreprise sur la page d'accueil.
-   - Je veux parcourir les réalisations de l'entreprise dans le portfolio.
-   - Je veux pouvoir contacter l'entreprise via un formulaire de contact.
-
-2. **En tant qu'administrateur**
-
-   - Je veux pouvoir ajouter et modifier des projets dans le portfolio.
-   - Je veux pouvoir modifier le texte des pages facilement.
-
-### Cas d'Acceptation
-
-- La page d'accueil doit être accessible et contenir une biographie.
-- Le portfolio doit permettre d'afficher des projets avec images et descriptions.
-- Le formulaire de contact doit permettre l'envoi de messages.
+- **HTML5** pour la structure du site.
+- **CSS3** pour le design et la mise en page.
+- **Responsive Design** pour une adaptabilité optimale aux différents écrans.
 
 ## 5. Contraintes
 
-- **Conformité au RGPD** : collecte et stockage des données personnelles en accord avec la réglementation.
-- **Design Responsive** : adapté aux mobiles et tablettes.
-- **Performance et accessibilité** : optimisé pour un chargement rapide et une bonne accessibilité.
+- **Réglementations** : Respect des lois et normes en vigueur.
+- **Mentions Légales** : Présence obligatoire des mentions légales sur le site.
+- **Conformité au RGPD** : Collecte et stockage des données personnelles en accord avec la réglementation.
+- **SEO** : Optimisation pour le référencement naturel.
+- **Design Responsive** : Adapté aux mobiles et tablettes.
+- **Performance et accessibilité** : Optimisé pour un chargement rapide et une bonne accessibilité.
 
-## 6. SEO
-
-- **Optimisation des balises meta** : titres, descriptions et mots-clés pertinents.
-- **Structure HTML optimisée** : utilisation correcte des balises H1, H2, H3, etc.
-- **Performance et vitesse de chargement** : minimisation des fichiers CSS et JavaScript.
-- **Backlinks et netlinking** : stratégie pour améliorer l'autorité du site.
-- **Contenu optimisé** : textes adaptés aux moteurs de recherche avec des mots-clés ciblés.
-- **Adaptabilité mobile** : responsive design pour favoriser le référencement mobile.
-
-## 7. Charte Graphique
+## 6. Charte Graphique
 
 - **Couleurs et Typographie** : Définition d'une palette de couleurs et de polices en accord avec l'image de l'entreprise.
 - **Logo et Identité Visuelle** : Utilisation cohérente des éléments graphiques.
